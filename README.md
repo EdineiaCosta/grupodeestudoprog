@@ -1,1 +1,2 @@
-Grupo de Estudos Formadores em Ação: Estudos de HTML e CSS
+# formacaoEM-3tri
+##Repositório para guardar o projeto feito na formação Ensino Médio
